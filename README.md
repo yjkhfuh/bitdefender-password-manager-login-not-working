@@ -1,0 +1,1 @@
+# bitdefender-password-manager-login-not-working
